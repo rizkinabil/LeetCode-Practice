@@ -35,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/rizkinabil/LeetCode-Practice/tree/master/0112-path-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/rizkinabil/LeetCode-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
